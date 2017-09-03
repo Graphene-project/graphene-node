@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Marco Magnetti",
+      "authorEmail": "marcomagnetti@gmail.com",
+      "authorUrl": "marcomag.net"
+    }
+  }
+}
